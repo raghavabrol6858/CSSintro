@@ -1,0 +1,31 @@
+h1{
+     color: wheat; background-image: url(https://i.pinimg.com/originals/5a/3d/84/5a3d843396f81075777b7477fcef86bf.jpg); background-size: 100%; background-attachment: fixed;
+     background-repeat: no-repeat; 
+}
+body{
+    
+    text-transform: capitalize;
+    text-rendering: optimizeLegibility;
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/496/110/395/paul-walker-vin-diesel-fast-and-furious-wallpaper-preview.jpg); 
+    background-position-y: bottom;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-color: black;
+   
+    
+    
+}
+#f1{
+    background-color: black;
+    background: linear-gradient(rgba(102, 16, 146, 0.626) 30%,black 70% );
+}
+ #f2{
+    background-color: black; 
+ }
+p{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
